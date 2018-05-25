@@ -5,7 +5,7 @@ Before you start, download the required software from their respective websites:
 - Vagrant - 2.0.1 or higher
 - VirtualBox - 5.0.1 or higher
 
-    <span style="color:red">![Warning](https://github.com/MarilizaC/icons/blob/master/Warning.png) **Warning!** </span> Do not use package managers to avoid installing versions that might be out of date.
+   ![Warning](https://github.com/MarilizaC/icons/blob/master/Warning.png) **Warning!** Do not use package managers to avoid installing versions that might be out of date.
 
 With both software installed, you can start creating a Subutai peer VM based on Debian Stretch (version 9.x):
 
@@ -39,7 +39,7 @@ Congratulations, you now have a peer! Towards the end of the output stream, you 
  default: If you forget the url, just take a look in .vagrant/generated.yml
 ```
 ### What’s Next?
-Complete the post-installation procedures to install the companion software: Subutai E2E browser plugin, P2P daemon, and Control Center.	For more information, see the PeerOS and Companion software sections at <span style="color:blue">[Getting Started](https://subutai.io/getting-started.html#E2E).</span>
+Complete the post-installation procedures to install the companion software: Subutai E2E browser plugin, P2P daemon, and Control Center.	For more information, see the PeerOS and Companion software sections at [Getting Started](https://subutai.io/getting-started.html#E2E).
 
 After creating your peer and completing post-installation, you can log in to the peer’s management console through your own IP-based address or URL indicated in the output stream. Use the default credentials (`u/p` - username/password) provided below the URL. Refer to the sample URL and credentials taken from the output stream above:
 ```
