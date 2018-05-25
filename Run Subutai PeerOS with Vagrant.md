@@ -23,7 +23,7 @@ With both software installed, you can start creating a Subutai peer VM based on 
     At one point, you will be prompted to select which bridge interface you want to use. 
     The first option provided by Vagrant is usually the right network interface that is actively being used to connect to the Internet.
 
-##### You’re done!
+### You’re done!
 Congratulations, you now have a peer! Towards the end of the output stream, you should see a message similar to the following:
 ``` default: SUCCESS: Your peer is up. Welcome to the Horde!
  default: -----------------------------------------------
@@ -38,5 +38,5 @@ Congratulations, you now have a peer! Towards the end of the output stream, you 
  default: Vagrant ssh and change the default 'subutai'/'ubuntai' user password!
  default: If you forget the url, just take a look in .vagrant/generated.yml
 ```
-##### What’s Next?
+### What’s Next?
 Complete the post-installation procedures to install the companion software: Subutai E2E browser plugin, P2P daemon, and Control Center.	For more information, see the PeerOS and Companion software sections at <span style="color:blue">[Getting Started](https://subutai.io/getting-started.html#E2E).</span>
