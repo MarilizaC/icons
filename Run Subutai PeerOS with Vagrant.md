@@ -41,7 +41,7 @@ Congratulations, you now have a peer! Towards the end of the output stream, you 
 ### What’s Next?
 Complete the post-installation procedures to install the companion software: Subutai E2E browser plugin, P2P daemon, and Control Center.	For more information, see the PeerOS and Companion software sections at <span style="color:blue">[Getting Started](https://subutai.io/getting-started.html#E2E).</span>
 
-After creating your peer and completing post-installation, you can log in to the peer’s management console through your own IP-based address or URL indicated in the output stream. Use the default credentials (u/p - username/password) provided below the URL. Refer to the sample URL and credentials taken from the output stream above:
+After creating your peer and completing post-installation, you can log in to the peer’s management console through your own IP-based address or URL indicated in the output stream. Use the default credentials (`u/p` - username/password) provided below the URL. Refer to the sample URL and credentials taken from the output stream above:
 ```
 default: Console URL: https://172.16.1.121:8443
 default: Default u/p: 'admin' / 'secret'
