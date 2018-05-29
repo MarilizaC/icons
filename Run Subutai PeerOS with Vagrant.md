@@ -26,7 +26,8 @@ With both software installed, you can start creating a Subutai peer VM on Debian
 
 ### You’re done!
 Congratulations, you now have a peer! Towards the end of the output stream, you should see a message similar to the following:
-``` default: SUCCESS: Your peer is up. Welcome to the Horde!
+``` 
+ default: SUCCESS: Your peer is up. Welcome to the Horde!
  default: -----------------------------------------------
  default:
  default: Next steps …
